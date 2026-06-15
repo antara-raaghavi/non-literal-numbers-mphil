@@ -1,0 +1,10 @@
+ipython
+pandas
+seaborn
+matplotlib
+numpy
+scipy
+openai
+tqdm
+google-genai
+surprisal
